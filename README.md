@@ -103,3 +103,8 @@ contract Coin {
 - Aprender más de Ethereum: https://ethereum.org/es/developers/
 - Lista de recursos de solidity: https://github.com/bkrem/awesome-solidity
 - Lista de ejemplos: https://solidity-by-example.org/
+- Filosofia Codigo:
+    - https://www.youtube.com/@FilosofiaCodigo/videos
+    - https://dev.to/turupawn
+- Crypto Zombies: https://cryptozombies.io/
+- Desafios: https://github.com/kmjones1979/scaffold-eth-2-solidity/tree/main?utm_source=substack&utm_medium=email#readme
