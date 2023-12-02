@@ -5,6 +5,7 @@
 - Documentación Solidity: https://soliditylang.org/
 - Descripción del lenguage: https://docs.soliditylang.org/en/v0.8.23/layout-of-source-files.html
 - Slides Scroll: https://docs.google.com/presentation/d/1QTQi0iTter5slpKo0iriAG8Sjq0A7pLBGzKSryah1-8/edit?usp=sharing
+- Slides Fronted: https://github.com/jdestephen/web3-frontend-basics
 - Ethereum Website: https://linktr.ee/ethereumhn
 - Ethereum Honduras: http://ethereumhonduras.org/
 - Scroll website: https://scroll.io/
