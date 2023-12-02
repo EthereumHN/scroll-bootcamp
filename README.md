@@ -13,7 +13,7 @@
 
 ### Hola Mundo
 
-```sol
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 contract MyContract {
@@ -24,7 +24,7 @@ contract MyContract {
 ```
 
 ### Almacenamiento
-```sol
+```solidity
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.4.16 <0.9.0;
 
@@ -43,7 +43,7 @@ contract SimpleStorage {
 
 ### Moneda
 
-```sol
+```solidity
 pragma solidity ^0.4.0;
 
 // SPDX-License-Identifier: GPL-3.0
