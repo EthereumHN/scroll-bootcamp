@@ -104,6 +104,7 @@ contract Coin {
 ## Recomendaciones, Herramientas y Siguientes Pasos
 - Usar metodología de Test Driven Development: https://www.agilealliance.org/glossary/tdd/
 - Instalar Solidity localmente: https://docs.soliditylang.org/en/v0.8.23/installing-solidity.html
+- Scaffold ETH (Todo para empezar, perfecto para hackathons): https://scaffoldeth.io/
 - Usar smart contract developer tools:
     - Hardhat (JS / TS): https://hardhat.org/
     - Foundry (Solidity): https://book.getfoundry.sh/
