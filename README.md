@@ -2,13 +2,9 @@
 
 ## Recursos Bootcamp
 - Ambiente de desarrollo online: https://remix.ethereum.org/
-- Documentación Solidity: https://soliditylang.org/
 - Descripción del lenguage: https://docs.soliditylang.org/en/v0.8.23/layout-of-source-files.html
 - Slides Scroll: https://docs.google.com/presentation/d/1QTQi0iTter5slpKo0iriAG8Sjq0A7pLBGzKSryah1-8/edit?usp=sharing
-- Slides Fronted: https://github.com/jdestephen/web3-frontend-basics
-- Ethereum Website: https://linktr.ee/ethereumhn
-- Ethereum Honduras: http://ethereumhonduras.org/
-- Scroll website: https://scroll.io/
+- Repositorio Frontend: https://github.com/jdestephen/web3-frontend-basics
 
 ## Código
 
@@ -94,7 +90,20 @@ contract Coin {
 }
 ```
 
-## Recomendaciones y Herramientas
+## Comunidad Honduras  
+- Ethereum Honduras: https://linktr.ee/ethereumhn
+- Ethereum Honduras Telegram: https://t.me/c/1901657551/1
+- Ethereum Honduras Discord: https://discord.gg/zG3kfSdJtz
+- Filosofia Codigo:
+    - https://www.youtube.com/@FilosofiaCodigo/videos
+    - https://dev.to/turupawn
+ 
+## Otros Links
+- Ethereum Website: https://ethereum.org/
+- Documentación Solidity: https://soliditylang.org/
+- Scroll website: https://scroll.io/
+
+## Recomendaciones, Herramientas y Siguientes Pasos
 - Usar metodología de Test Driven Development: https://www.agilealliance.org/glossary/tdd/
 - Instalar Solidity localmente: https://docs.soliditylang.org/en/v0.8.23/installing-solidity.html
 - Usar smart contract developer tools:
@@ -104,8 +113,5 @@ contract Coin {
 - Aprender más de Ethereum: https://ethereum.org/es/developers/
 - Lista de recursos de solidity: https://github.com/bkrem/awesome-solidity
 - Lista de ejemplos: https://solidity-by-example.org/
-- Filosofia Codigo:
-    - https://www.youtube.com/@FilosofiaCodigo/videos
-    - https://dev.to/turupawn
 - Crypto Zombies: https://cryptozombies.io/
 - Desafios: https://github.com/kmjones1979/scaffold-eth-2-solidity/tree/main?utm_source=substack&utm_medium=email#readme
