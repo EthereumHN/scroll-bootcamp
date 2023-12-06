@@ -102,6 +102,7 @@ contract Coin {
 - Scroll website: https://scroll.io/
 
 ## Recomendaciones, Herramientas y Siguientes Pasos
+- Solidity Academy de Alchemy: https://www.alchemy.com/university/courses/solidity
 - Usar metodología de Test Driven Development: https://www.agilealliance.org/glossary/tdd/
 - Instalar Solidity localmente: https://docs.soliditylang.org/en/v0.8.23/installing-solidity.html
 - Scaffold ETH (Todo para empezar, perfecto para hackathons): https://scaffoldeth.io/
